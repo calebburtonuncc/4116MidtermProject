@@ -6,7 +6,7 @@ This project builds on assignment 1, which was a baseline classifier on high res
 The Dataset is shared with Assingment 1, being a group of OCT images. These fall under 3 classes: Normal, DME, and DRUSEN. 
 
 DISCLAIMER: 
-(The project, and professor during class, states this is to be a binary classifier, which would mean that DME and DRUSEN would be clumped into one class of DISEASED. I had already started on this assignment with training 150 epochs on 3 classes by the time this realization reached me. I understand point deductions if that is needed, but I believe this project to be nearly identical either way you go. Three classes likely had to do with my low accuracy ratings)
+(The project, and professor during class, states this is to be a binary classifier, which would mean that DME and DRUSEN would be clumped into one class of DISEASED. I had already started on this assignment with training 150 epochs on 3 classes by the time this realization reached me. I understand point deductions if that is needed, but I believe this project to be nearly identical either way you go. I did Assignment 1 with 3 classes, so I am not sure how results would be accurate if classes are different. Three classes likely had to do with my low accuracy ratings)
 
 ## Steps taken to complete this project:
 1. Upload dataset and Model A weights into Google Drive for recall and evaluation
